@@ -1,6 +1,7 @@
 class Print{
 	public static void main(String args[]){
-		system.out.println("MY name is Seelan"); //Using println 
+		
+		System.out.println("MY name is Seelan"); //Using println 
 		system.out.println("My father name is Yogan");
 		system.out.println("My age is 24");
 		
