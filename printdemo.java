@@ -1,4 +1,4 @@
-class Print{
+class Printdemo{
 	public static void main(String args[]){
 		
 		System.out.println("MY name is Seelan"); //Using println 
