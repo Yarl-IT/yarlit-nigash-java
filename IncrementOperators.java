@@ -13,7 +13,7 @@ class IncrementOperators {
 		x++;   //post-increment
 		System.out.println(x);
 		
-		x++;    //pre-increment
+		++X;    //pre-increment
 		System.out.println(x);
 		
 		System.out.println(++x);
