@@ -1,4 +1,4 @@
-class Printdemo{
+class PrintDemo{
 	public static void main(String args[]){
 		
 		System.out.println("MY name is Seelan"); //Using println 
@@ -20,6 +20,6 @@ class Printdemo{
 		// Using print with \n
 		System.out.print("My name is Seelan\n");
 		System.out.print("my father name is Yogan\n");
-		System.out.system("my age is 24\n");
+		System.out.print("my age is 24\n");
 	}
 }
